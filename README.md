@@ -19,5 +19,5 @@ I plan to return to this project in the future to enhance it with **JavaScript i
 ---
 
 <p align="center">
-  <img src="./images/piza-preview.png" alt="Pizza Shop Landing Page Preview" width="800"/>
+  <img src="./images/pizza-preview.png" alt="Pizza Shop Landing Page Preview" width="800"/>
 </p>
